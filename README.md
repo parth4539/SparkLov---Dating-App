@@ -68,9 +68,6 @@ Stages:
 
 ## 📐 Design Artifacts
 
-### ✏️ Wireframes
-- 🔹 [Low-Fidelity (Figma)](https://www.figma.com/design/yI71YhleppH1sZiSxbG5By/DatingApp_Wireframe?node-id=0-1&p=f)
-- 🔸 [High-Fidelity (Figma)](https://www.figma.com/design/gJXzYD3yBpGihYkDvfc43Q/mobile-dating?node-id=0-1&p=f)
 
 ### 📂 Files:
 - [`docs/SparkLov_HMW_UX.pdf`](docs/SparkLov_HMW_UX.pdf)
@@ -91,8 +88,8 @@ Includes:
 
 ---
 
-## 🔗 GitHub Repository
 
-[GitHub: sujal-mavdiya07/IE418_G24_DatingApp](https://github.com/sujal-mavdiya07/IE418_G24_DatingApp)
 
----
+## ✏️ Wireframes
+- 🔹 [Low-Fidelity (Figma)](https://www.figma.com/design/yI71YhleppH1sZiSxbG5By/DatingApp_Wireframe?node-id=0-1&p=f)
+- 🔸 [High-Fidelity (Figma)](https://www.figma.com/design/gJXzYD3yBpGihYkDvfc43Q/mobile-dating?node-id=0-1&p=f)
