@@ -24,17 +24,6 @@ Most dating platforms lead to **superficial connections**, **limited interaction
 
 ---
 
-## 💡 How Might We (HMW)
-
-- How might we showcase personality through profile customization?
-- How might we improve the accuracy of matches based on interests?
-- How might we make icebreaking fun and effortless?
-- How might we ensure security and comfort for all users?
-- How might we make dating inclusive for differently-abled individuals?
-- How might we gamify the dating journey?
-
----
-
 ## 👤 User Research & Insights
 
 ### 📋 Methods:
